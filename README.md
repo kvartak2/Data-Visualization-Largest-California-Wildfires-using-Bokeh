@@ -11,6 +11,4 @@ Requirements:
 •	bokeh
 
 
-Dataset
-
-https://www.kaggle.com/annieichen/top-20-largest-california-wildfires
+Dataset : https://www.kaggle.com/annieichen/top-20-largest-california-wildfires
